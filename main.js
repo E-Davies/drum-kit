@@ -1,5 +1,3 @@
-alert("Not suitable for touchscreen devices\n\nThis app is best used on a computer with a keyboard");
-
 //*********** Functions for keyboard use *****************/
 
 document.addEventListener('keydown', function (event){
